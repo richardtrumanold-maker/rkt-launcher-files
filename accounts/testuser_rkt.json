@@ -1,8 +1,0 @@
-{
-  "username": "testuser_rkt",
-  "email": "test@example.com",
-  "salt": "Wp3/33zW9+GamE3HJi7S8g==",
-  "hash": "nlcIX1nfx99J/1IVfP5tNMae/NJcfqfRBwCYryvLOuo=",
-  "iterations": 100000,
-  "created_at": 1787611948
-}
